@@ -173,4 +173,4 @@ int main(void)
 
 ---
 
-*This project was created as part of the 42 curriculum by Kacherch.*
+*This project was created as part of the 42 curriculum by Kheldin Acherchour.*
